@@ -32,6 +32,7 @@ set(msg_files
   "msg/Tow.msg"
   "msg/TaskType.msg"
   "msg/Clean.msg"
+  "msg/Bookshelf.msg"
   "msg/TaskProfile.msg"
   "msg/BidNotice.msg"
   "msg/BidProposal.msg"
